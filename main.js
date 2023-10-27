@@ -12,3 +12,7 @@ function TocaSomClap(){
     document.querySelector('#som_tecla_clap').play();
 }
 document.querySelector('.tecla_pom').onclick =TocaSomPom;
+function TocaSomPom(){
+    document.querySelector('#som_tecla_tim').play();
+}
+document.querySelector('.tecla_tim').onclick =TocaSomTim;
