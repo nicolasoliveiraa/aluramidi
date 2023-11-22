@@ -21,4 +21,3 @@ function tocaSomPuff() {
 }
 
 document.querySelector('.tecla_puff').onclick = tocaSomPuff
-
